@@ -46,7 +46,7 @@ createServer({
 
       return data;
     });
-  }
+  },
 });
 
 ReactDOM.render(
